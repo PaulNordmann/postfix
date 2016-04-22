@@ -2,4 +2,4 @@ test:
 	@python test.py
 
 addTestMail:
-	@echo There is a ToDo
+	@python addTestMail.py
