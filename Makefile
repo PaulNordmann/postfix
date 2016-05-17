@@ -3,3 +3,6 @@ test:
 
 addTestMail:
 	@python addTestMail.py
+
+showEmails:
+	@python showEmails.py
